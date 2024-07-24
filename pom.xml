@@ -16,12 +16,11 @@
     </dependency>
   </dependencies>
   <!-- https://mvnrepository.com/artifact/org.webjars.npm/utf-8-validate -->
-  <dependency>
+<dependency>
     <groupId>org.webjars.npm</groupId>
     <artifactId>utf-8-validate</artifactId>
-    <version>5.0.10</version>
-  </dependency>
-
+    <version>1.2.1</version>
+</dependency>
   <build>
     <finalName>04-Maven-WebApp</finalName>
   </build>
