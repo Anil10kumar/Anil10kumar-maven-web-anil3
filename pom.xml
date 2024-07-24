@@ -15,6 +15,13 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <!-- https://mvnrepository.com/artifact/org.webjars.npm/utf-8-validate -->
+  <dependency>
+    <groupId>org.webjars.npm</groupId>
+    <artifactId>utf-8-validate</artifactId>
+    <version>5.0.10</version>
+  </dependency>
+
   <build>
     <finalName>04-Maven-WebApp</finalName>
   </build>
