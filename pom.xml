@@ -14,13 +14,14 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-  </dependencies>
-  <!-- https://mvnrepository.com/artifact/org.webjars.npm/utf-8-validate -->
-<dependency>
+    <!-- https://mvnrepository.com/artifact/org.webjars.npm/utf-8-validate -->
+  <dependency>
     <groupId>org.webjars.npm</groupId>
     <artifactId>utf-8-validate</artifactId>
     <version>1.2.1</version>
-</dependency>
+  </dependency>
+
+  </dependencies>
   <build>
     <finalName>04-Maven-WebApp</finalName>
   </build>
