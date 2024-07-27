@@ -1,7 +1,7 @@
 <html>
 <body>
-<h4>Hello World!</h4>
-<h3>Devops is welcome.</h3>
+<h1>Hello World!</h1>
+<h1>Devops is welcome.</h1>
 <h2>KRISHNA IS SUPREME PERSONALITY OF GODHEAD</h2>
 </body>
 </html>
